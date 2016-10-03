@@ -29,6 +29,11 @@ header {
 
 }
 
+.phone-wrap {
+    width: 380px;
+    margin: 0 auto;
+}
+
 .column-1,
 .column-2 {
     font-family: 'Raleway', sans-serif;
@@ -54,9 +59,7 @@ header {
 }
 
 .container img {
-    position: absolute;
-    top: 450px;
-    left: 725px;
+    margin-top: -300px;
 }
 
 .box {
